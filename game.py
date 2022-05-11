@@ -53,7 +53,7 @@ class MainGame():
                                '2. 鼠标右键创建豌豆射手')
         MainGame.window.blit(text1, (5, 5))
         # 待续
-
+电风扇
 
 
 
